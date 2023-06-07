@@ -1,0 +1,16 @@
+{
+  "name": "code-metrics-module",
+  "version": "1.0.1",
+  "description": "A module for calculating code metrics",
+  "main": "index.js",
+  "keywords": [
+    "code",
+    "metrics",
+    "analysis"
+  ],
+  "author": "ozjangyo",
+  "license": "MIT",
+  "dependencies": {
+    "esprima": "^4.0.1"
+  }
+}
